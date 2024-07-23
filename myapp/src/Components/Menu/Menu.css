@@ -1,0 +1,61 @@
+.menu-section {
+  background-color: red;
+  padding: 20px 18%;
+  padding-bottom: 10px;
+  display: flex;
+  justify-content: start;
+}
+
+body {
+  background-color: black;
+}
+
+.header-h1 {
+  font-weight: bolder;
+  font-size: 1.5em;
+  color: white;
+  margin-left: 20px;
+  text-decoration: none;
+}
+
+.header-h1:hover {
+  cursor: pointer;
+}
+
+.h1-des {
+  color: white;
+  margin-left: 30px;
+  font-size: 1.3em;
+  padding-top: 3px;
+  text-decoration: none;
+}
+
+.h1-des:hover {
+  color: black;
+  cursor: pointer;
+}
+
+.h1-custom {
+  margin-left: 10px;
+  padding-top: 0px;
+  color: white;
+  font-size: 1.2em;
+  text-decoration: none;
+}
+
+.custom-button {
+  display: flex;
+  justify-content: center;
+  background-color: lime;
+  border-radius: 10px;
+  padding: 10px 10px;
+  margin-top: -5px;
+  margin-left: 7.5%;
+  width: 10%;
+  text-decoration: none;
+}
+
+.custom-button:hover {
+  background-color: lightgreen;
+  cursor: pointer;
+}
