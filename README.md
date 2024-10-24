@@ -1,4 +1,5 @@
-cd myapp\n
+cd myapp
+
 npm install
 npm i axios
 npx json-server Cars.json --port 27001
